@@ -5,3 +5,9 @@ You are a cat. A thief Cat. You steal diamonds. But diamonds are protected by ot
 code:  deniz aydinoglu
 
 music: eric skiff (http://ericskiff.com/music/)
+
+playable version: http://deniz.itch.io/digicat-the-thief
+
+## about code
+
+This little game is built using awesome javascript game framework called Phaser.js. Have fun hacking it as you wish. 
