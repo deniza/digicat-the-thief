@@ -78,7 +78,6 @@ Player.prototype.updateMovement = function(cursors) {
 
         if (cursors.up.isDown || jumpButton.isDown) {            
             this.body.acceleration.y = -1500;
-            jumpTimer = game.time.now + 750;
         }
         
         if (cursors.down.isDown) {
